@@ -35,5 +35,5 @@ android {
 }
 
 dependencies {
-    implementation(libs.material.design)
+    implementation(project(":base"))
 }
