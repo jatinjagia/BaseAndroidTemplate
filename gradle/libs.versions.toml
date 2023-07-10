@@ -45,6 +45,7 @@ androidx_lifecycle_livedata = { module = "androidx.lifecycle:lifecycle-livedata"
 androidx_lifecycler_annotation_processor = { module = "androidx.lifecycle:lifecycle-compiler", version.ref = "androidx_lifecycle"}
 androidx_navigation = { module = "androidx.navigation:navigation-fragment-ktx", version.ref = "androidx_navigation"}
 androidx_navigation_ui = { module = "androidx.navigation:navigation-ui-ktx", version.ref ="androidx_navigation"}
+androidx_navigation_safe_args = { module = "androidx.navigation:navigation-safe-args-gradle-plugin", version.ref = "androidx_navigation"}
 androidx_room = { module = "androidx.room:room-runtime",version.ref = "androidx_room"}
 androidx_workmanager = { module = "androidx.work:work-runtime-ktx", version.ref = "androidx_workmanager"}
 kapt_room = { module = "androidx.room:room-compiler" , version.ref = "androidx_room"}
