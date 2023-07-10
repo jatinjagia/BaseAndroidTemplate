@@ -21,4 +21,6 @@ android {
 
 dependencies {
     api("com.google.android.material:material:1.9.0")
+    api(libs.bundles.androidx.base.core)
+    api(libs.bundles.androidx.architecture.components)
 }
